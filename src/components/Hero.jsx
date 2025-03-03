@@ -16,12 +16,11 @@ const Hero = () => {
           </span> <br />
           <TypeAnimation
             sequence={[
-              "Frontend Dev",
+              "Web Developer",
               1000,
-              "Web Designer",
+              "UI/UX DESIGNER",
               1000,
-              "React Dev",
-              1000,
+             
             ]}
             wrapper='span'
             speed={50}
